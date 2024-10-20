@@ -11,13 +11,13 @@
 }
 .video-info-grid{
  display:grid;
- grid-template-columns:50px 1fr; 
+ grid-template-columns: 50px 1fr; 
 }
 .channel-picture{
-background-color:gray;
+
 }
 .video-info{
-background-color:gray;
+
 }
 .profile-picture{
 width: 40px;
@@ -35,7 +35,7 @@ color: rgb(96,96, 96);
 margin-bottom:4px;
 }
 .video-grid{
-display: grid;
+display:grid;
 grid-template-columns:1fr 1fr 1fr;
 column-gap:16px;
 row-gap:40px
